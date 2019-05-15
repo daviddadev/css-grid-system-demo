@@ -1,0 +1,33 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 5% auto;
+    text-align: center;
+}
+
+div.row > div {
+    padding: 40px 10px;
+}
+/* 100 & 400 color palette */
+.pink {
+    background: #F8BBD0;
+    border: 3px solid #EC407A;
+}
+.purple {
+    background: #E1BEE7;
+    border: 3px solid #AB47BC;
+}
+.blue {
+    background: #BBDEFB;
+    border: 3px solid #42A5F5;
+}
+.green {
+    background: #C8E6C9;
+    border: 3px solid #66BB6A;
+}
+.yellow {
+   background: #FFF9C4;
+   border: 3px solid #FFEE58;
+}
